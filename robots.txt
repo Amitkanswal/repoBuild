@@ -1,0 +1,2 @@
+User-agent: *
+Sitemap:https://sleepy-kirch-cfc8ef.netlify.com/
